@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295574889993",
+    "project_id": "usedtrading-5dc03",
+    "storage_bucket": "usedtrading-5dc03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295574889993:android:a4c72934554a8b919d7ad8",
+        "android_client_info": {
+          "package_name": "com.ifcompany.usedtrading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295574889993-jlm8amlvk6423ui3hc3hte70cjds1d7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ZelXCg1WQuSRkc5JpPZf_XNAkaoMRaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295574889993-jlm8amlvk6423ui3hc3hte70cjds1d7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

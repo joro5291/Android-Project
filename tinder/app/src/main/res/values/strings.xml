@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tinder</string>
+    <string name="facebook_app_id">1385963825183510</string>
+    <string name="fb_login_protocol_scheme">EAATshtl4uxYBAKugKtRqVdKrBGZBbBRZCgJ899nRhbDQuXVqPkWXnLc8v8xYvWtLHZBkS6yyU0JGGyprNcU4w3t13BD9Kd0s4RZBu5jn5eZBTcVIWRFz5GZBaLiZAFGlUSwLKNKyV2DEtZAJLQ2Gby6Ddex8p45IZC81mjY2ynk4j1nKdyI1w5ZCd2IkiBsXa0sV2Cg8ZBOzZCxCAcx7b2xYvrLeLWj79SpUrUKEKZCgxvKPK9ZBy9nrhKHwIOllaF7u3QStoZD</string>
+    <string name="facebook_client_token">bb496767a46af2cc4ffdeafba80bc606</string>
+    <string name="write_name">이름을 입력해주세요.</string>
+</resources>
